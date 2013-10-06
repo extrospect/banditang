@@ -1,6 +1,6 @@
 {
-  "name": "angualrjs-seed",
-  "description": "A starter project for angular js",
+  "name": "angualrjs-seed-ts",
+  "description": "A TypeScript starter project for angular js",
   "devDependencies": {
         "phantomjs" : "*",
         "karma" : "*",
